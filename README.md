@@ -2,20 +2,13 @@
 
 I'm an Artificial Intelligence and Data Science student at REVA University, Bengaluru.
 
-## Portfolio
+## My Portfolio
 
-🌐 **Live Portfolio:**  
-https://sanika-hp.github.io/axios-task/
+🌐 https://sanika-hp.github.io/axios-task/
 
 ## Skills
 
-- Python
-- Data Analysis
-- HTML
-- CSS
-- JavaScript
-- React
-- Git & GitHub
+Python | Data Analysis | HTML | CSS | JavaScript | React | GitHub
 
 ## Projects
 
